@@ -1,6 +1,5 @@
-let pokemon = [
-    { nome: "Charmander", tipo: "Fogo", level: "45" },
-    { nome: "Squirtle", tipo: "Agua", level: "34" }
-];
+let pokemon =
+    { nome: "Charmander", tipo: "Fogo", level: "45" }
+    ;
 
-console.log(`Pokemon ${pokemon.nome}`)
+console.log(`Pokemon ${pokemon.nome},tipo ${pokemon.tipo},level ${pokemon.level}`)///fdsfsdfsf
